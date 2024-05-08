@@ -10,8 +10,8 @@ This Flask web application manages a classroom setting where teachers can add an
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/IS211_Assignment13.git
-cd IS211_Assignment13
+git clone https://github.com/yourusername/IS211_Assignment12.git
+cd IS211_Assignment12
 pip install -r requirements.txt
 
 Setting Up the Database
